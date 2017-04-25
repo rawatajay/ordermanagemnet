@@ -1,0 +1,7 @@
+[18-Jun-2016 12:36:05 Etc/GMT] CSRF state token does not match one provided.
+[18-Jun-2016 12:38:00 Etc/GMT] CSRF state token does not match one provided.
+[08-Jul-2016 12:29:05 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/triviwff/public_html/mobileappsdev.net/euphoria/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[08-Jul-2016 12:30:33 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/triviwff/public_html/mobileappsdev.net/euphoria/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[08-Jul-2016 12:30:54 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/triviwff/public_html/mobileappsdev.net/euphoria/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[08-Jul-2016 12:53:03 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/triviwff/public_html/mobileappsdev.net/euphoria/application/controllers/Webservice.php on line 193
+[08-Jul-2016 12:53:42 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/triviwff/public_html/mobileappsdev.net/euphoria/application/controllers/Webservice.php on line 193
